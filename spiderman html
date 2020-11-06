@@ -1,0 +1,26 @@
+<div class="container">
+  <article class="card">
+    <header class="card__header">
+      <h2>Movie Recommendation</h2>
+    </header>
+    
+    <section class="card__image">
+      <img src="https://static.wikia.nocookie.net/ironman/images/1/14/1_xlqPtRndV-lzCglYEV6L8g.jpeg/revision/latest/scale-to-width-down/337?cb=20191213153502" alt="">
+    </section>
+    
+    <section class="card__title">
+      <h3>Spiderman Homecoming</h3>
+    </section>
+    
+    <footer class="card__footer">
+      <div class="rating">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star fa-star--unselected"></i>
+      </div>
+    </footer>
+    
+  </article>
+</div>
